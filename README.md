@@ -59,7 +59,7 @@ We used a similar algorithmic structure of Hugo Germain's [repository](https://g
 
 ## Citing the paper (bib)
 
-If you make use of out code, please make sure to cite our paper:
+If you make use of our code, please make sure to cite our paper:
 ```
 @article{al2020simultaneous,
   title={Simultaneous Energy Harvesting and Information Transmission in a MIMO Full-Duplex System: A Machine Learning-Based Design},
